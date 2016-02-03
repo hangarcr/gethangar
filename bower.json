@@ -1,0 +1,30 @@
+{
+  "name": "gethangar",
+  "homepage": "https://github.com/hangarcr/gethangar",
+  "authors": [
+    "Jairo Gatjens <jgatjens@gmail.com>"
+  ],
+  "description": "Hangar look and feel to your websites",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "hangar",
+    "gethangar",
+    "css",
+    "websites",
+    "jekyll",
+    "theme"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "v4.0.0-alpha.2",
+    "zeroclipboard": "^2.2.0"
+  }
+}
