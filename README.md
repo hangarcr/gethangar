@@ -23,3 +23,16 @@ production. Use a tagged state of the repository, npm, or bower for stability!
 
 For transparency into our release cycle and in striving to maintain backward
 compatibility, Hangar is maintained under [the Semantic Versioning guidelines](http://semver.org/). 
+
+## Contributing
+
+See the [contribution][contribute] docs.
+
+## [Changelog]
+
+## License
+
+MIT © Hangar Labs (https://github.com/hangarcr)
+
+[contribute]: https://github.com/hangarcr/gethangar/blob/develop/CONTRIBUTING.md
+[changelog]: https://github.com/hangarcr/gethangar/blob/develop/CHANGELOG.md
