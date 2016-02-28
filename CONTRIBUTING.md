@@ -1,8 +1,9 @@
 # Contributing
 
 We love pull requests from everyone. By participating in this project, you
-agree to abide by the Hangar's code of conduct.
+agree to abide by the Hangar's [code of conduct][codeofconduct].
 
+[codeofconduct]: https://github.com/hangarcr/gethangar/blob/develop/CODE_OF_CONDUCT.md
 
 Fork, then clone the repo:
 
